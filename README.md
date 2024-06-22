@@ -9,11 +9,11 @@ For this analysis, I used the car_purchase dataset, https://www.kaggle.com/datas
 ## Data Exploration and Insights
 - During the exploration phase, I observed a correlation between the prices of a car and the annual salary of the person buying the car.
   
-	![258611003-60ec744c-7f3e-4882-8dba-32a9ed318b56](https://github.com/JJVH19/Mahine-Learning-Project/assets/109435368/5c5dfb25-e163-4b9c-a181-f54db20f75a0)
+		![258611003-60ec744c-7f3e-4882-8dba-32a9ed318b56](https://github.com/JJVH19/Mahine-Learning-Project/assets/109435368/5c5dfb25-e163-4b9c-a181-f54db20f75a0)
 
 - As shown below, people tend to buy a car based on their annual salary. Although this seems logical, it is a nice detail to take note of since it is a visualization of how the categorization would fit alongside the other features previously mentioned.
   
-	![258611005-33523ce4-a970-4f65-ad0e-6cbe48d7e8bd](https://github.com/JJVH19/Mahine-Learning-Project/assets/109435368/840dc9a8-ff2b-40ce-a20f-02826b5d13fa)
+		![258611005-33523ce4-a970-4f65-ad0e-6cbe48d7e8bd](https://github.com/JJVH19/Mahine-Learning-Project/assets/109435368/840dc9a8-ff2b-40ce-a20f-02826b5d13fa)
 
 
 ## Data Preprocessing
