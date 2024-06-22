@@ -8,8 +8,8 @@ For this analysis, I used the car_purchase dataset, https://www.kaggle.com/datas
 
 ## Data Exploration and Insights
 - During the exploration phase, I observed a correlation between the prices of a car and the annual salary of the person buying the car.
-- As shown below, people tend to buy a car based on their annual salary. Although this seems logical, it is a nice detail to take note of since it is a visualization of how the categorization would fit alongside the other features previously mentioned.
 ![car_purchase](https://github-production-user-asset-6210df.s3.amazonaws.com/109435368/258611003-60ec744c-7f3e-4882-8dba-32a9ed318b56.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T072158Z&X-Amz-Expires=300&X-Amz-Signature=f7c1d6881db60651eab679e9ac5c1c6bda3e8c4f18526a56fd9a281affbb31c2&X-Amz-SignedHeaders=host&actor_id=109435368&key_id=0&repo_id=671355558)
+- As shown below, people tend to buy a car based on their annual salary. Although this seems logical, it is a nice detail to take note of since it is a visualization of how the categorization would fit alongside the other features previously mentioned.
 ![annual salary](https://github-production-user-asset-6210df.s3.amazonaws.com/109435368/258611005-33523ce4-a970-4f65-ad0e-6cbe48d7e8bd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240622T072238Z&X-Amz-Expires=300&X-Amz-Signature=036b81d26925a54cf40791c33e7a4fc9547d52d3eea83d5db0ac538c11e59cdb&X-Amz-SignedHeaders=host&actor_id=109435368&key_id=0&repo_id=671355558)
 
 ## Data Preprocessing
